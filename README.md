@@ -22,7 +22,7 @@ Contato
 Habilidades
 Java
 HTML
-CSS
+PYTHON
 
 Objetivos
 Meu objetivo é me tornar um desenvolvedor backend habilidoso e contribuir para projetos inovadores que impactem positivamente a sociedade. Estou aberto a novas oportunidades de trabalho, colaboração e aprendizado. Se você gostaria de trabalhar comigo ou trocar experiências, não hesite em entrar em contato! 😉
